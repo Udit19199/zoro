@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[oc]
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+.env
+
+# macOS
+.DS_Store
+
+# Editor settings (optional)
+.vscode/
+.idea/
+
+# Optional: ignore if you do NOT want to commit Python version
+.python-version
+
